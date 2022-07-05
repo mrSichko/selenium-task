@@ -1,0 +1,8 @@
+page\AuthPage.class
+Selenium.class
+entity\Comment.class
+MyUtils.class
+Repository.class
+App.class
+page\Chat.class
+CommentDao.class
